@@ -1,4 +1,4 @@
-# distorted_motion_blur
+# Ripple Effect
 
 A new Flutter project.
 
